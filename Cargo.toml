@@ -1,0 +1,10 @@
+[package]
+name = "corpse_party_api"
+version = "0.1.0"
+license = "MIT"
+readme = "README.md"
+authors = ["sl91994 <112153975+sl91994@users.noreply.github.com>"]
+edition = "2024"
+
+[dependencies]
+actix-web = "4"
